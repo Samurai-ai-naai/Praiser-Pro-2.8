@@ -1,0 +1,8 @@
+{
+  "name": "Remix Praiser pro",
+  "description": "Jist mox.it up.with your own ideas",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
